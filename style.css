@@ -1,0 +1,15 @@
+#{
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: .08em;
+    font-weight: 600;
+    text-transform: lowercase;
+    padding: 8px 16px;
+    border-radius: 8px;
+    transition: all .35s cubic-bezier(.23, 1, .32, 1);
+    border: 1px solid transparent;
+    background: linear-gradient(135deg, var(--violet), var(--violet2));
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(124, 58, 237, .2);
+}
